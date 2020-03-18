@@ -1,1 +1,1 @@
-# happykinapi
+# Happy Kin API
